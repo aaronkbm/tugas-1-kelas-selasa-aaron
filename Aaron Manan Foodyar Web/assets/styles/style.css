@@ -1,0 +1,360 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Quicksand;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
+}
+.container__header__name {
+  display: flex;
+}
+
+.header__name {
+  color: #272042;
+  margin-left: 10px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+}
+
+ul li {
+  list-style-type: none;
+  color: #8b8ba5;
+  margin-left: 15px;
+}
+
+.home {
+  color: #272042;
+}
+
+.button__kitchen {
+  background-color: #fbe0dc;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: #272042;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-style: none;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.container__one {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.eat {
+  font-size: 46px;
+  color: #272042;
+}
+
+.container__one p {
+  color: #8b8ba5;
+  font-size: 20px;
+}
+
+.button__decide {
+  background-color: #f7c531;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: #272042;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: none;
+  margin-top: 30px;
+}
+
+.watch {
+  text-align: center;
+  font-family: Quicksand;
+  color:#8B8BA5;
+}
+.spesial {
+  text-align: center;
+  font-family: Quicksand;
+  color: #272042;
+}
+
+menu  { 
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  padding right: 10px;
+  
+}
+
+.food{
+  color: #F7C531;
+  margin-right: 20px;
+}
+
+.food2{
+  margin-right: 30px;
+}
+
+.food3{
+  margin-right: 30px;
+}
+
+.food4{
+  margin-right: 30px;
+}
+
+.makanan__container{
+  display: flex;
+ justify-content: center;
+  
+}
+
+.makanan1{
+  align-items: center;
+    margin-right: 30px;
+  
+}
+.makanan2{
+ 
+    margin-right: 30px;
+  
+}
+
+.makanan3{
+    margin-right: 30px;
+  
+}
+
+.makanan4{
+  margin-right: 30px;
+
+}
+
+
+.Salad{
+  text-align: center;
+}
+
+.Salad{
+  text-align: center;
+}
+.Salad{
+  text-align: center;
+}
+.Salad{
+  text-align: center;
+}
+
+
+.amir{
+  text-align: center;
+  color: #8B8BA5;
+}
+.johm{
+  text-align: center;
+  color: #8B8BA5;
+}
+.toekang{
+  text-align: center;
+  color: #8B8BA5;
+}
+
+.imelda{
+  text-align: center;
+  color: #8B8BA5;
+}
+
+.teks{
+ 
+  text-align: center;
+  align-items: center;
+}
+
+.gmbr{
+  justify-content: center ;
+  align-items: center;
+  text-align: center;
+  display: flex;
+}
+
+.gmbr2{
+  margin-right: 50px;
+}
+
+
+.camella{
+  font-size: 20px;
+  color:#272042 ;
+  margin-left: 30px;
+  
+
+
+
+}
+.vege{
+  color:#8B8BA5
+}
+
+.angka{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.angka1{
+  color: #272042;
+  font-size: 30px;
+  margin-right: 100px;
+
+
+}
+
+.angka2{
+  color: #272042;
+  font-size: 30px;
+  margin-right: 100px;
+
+
+}
+.angka3{
+  color: #272042;
+  font-size: 30px;
+  margin-right: 100px;
+
+
+}
+.angka4{
+  color: #272042;
+  font-size: 30px;
+  margin-right: 100px;
+
+
+}
+
+.menufood{
+color: #8B8BA5;
+font-size: 20px;
+align-items: center;
+  
+}
+
+.chefs{
+  color: #8B8BA5;
+  font-size: 20px;
+  text-align: center;
+  align-items: center;
+    
+  }
+
+  .course{
+    color: #8B8BA5;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+      
+    }
+
+    .alumni{
+      color: #8B8BA5;
+      font-size: 20px;
+      text-align: center;
+      align-items: center;
+        
+      }
+  
+.seg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.seg1{
+  width: 250px;
+        height: 300px;
+        border: none
+
+}
+
+.donlod{
+  color: #272042;
+  margin-left: 50px;
+
+}
+
+.donlod2{
+ color:#8B8BA5;
+ margin-left: 50px;
+
+}
+
+.donlod3{
+  margin-left: 40px;
+}
+
+.plingbawah{
+  display: flex;
+
+  justify-content: center;
+}
+
+.baris1{
+  margin-top: 80px;
+  margin-right: 50px;
+}
+
+.baris2{
+  margin-right: 50px;
+}
+
+.baris3{
+  margin-right: 50px;
+}
+
+.baris4{
+  margin-right: 50px;
+}
+
+.baris21{
+  font-size: 20px;
+ color: #272042;
+}
+
+.baris31{
+  font-size: 20px;
+ color: #272042;
+}
+
+.baris41{
+  font-size: 20px;
+ color: #272042;
+}
+
+.baris0{
+  color: #8B8BA5;
+}
+
+
+
+.allrights{
+  color: #8B8BA5;
+  text-align: center;
+}
